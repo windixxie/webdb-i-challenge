@@ -7,6 +7,8 @@
   },
   "repository": "https://github.com/LambdaSchool/webdb-i-challenge",
   "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^8.0.0",
     "express": "^4.17.1",
     "knex": "^0.19.0",
     "sqlite3": "^4.0.9"
